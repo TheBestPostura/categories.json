@@ -1,0 +1,26 @@
+[
+  {
+    "Category": "Cultura",
+    "Description": "Preguntas relacionadas con arte, literatura, musica y otras expresiones culturales."
+  },
+  {
+    "Category": "Deportes",
+    "Descripcion": "Pregunta diversos deportes y eventos deportivos."
+  },
+  {
+    "Category": "Arte",
+    "Description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresion."
+  },
+  {
+    "Category":"Cine",
+    "Description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+  },
+  {
+   "Category":"Historia",
+    "Description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+  },
+  {
+  "Category":"Ciencia",
+    "Description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+  }  
+]
