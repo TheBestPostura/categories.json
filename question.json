@@ -1,15 +1,6 @@
-[
- {"category": "Cultura",
+{"category": "Cultura",
   "question": "¿Que miembro de la familia es considerado como el fundador y tiene el apodo de SrPostura?",
   "options": ["Moises", "Badre", "Mohamed","Adrian"],
   "answer": 0,
   "explanation": "Moisés, conocido tambien como el señor Postura considerado padre y fundador de la gran familia española (La autentica familia) fundo y recluto a varios miembros por el comienzo del año 2008, ya que era bastante popular por ser considerado el mejor futbolita del instituto."
-},
-{
-  "category": "Deportes",
-  "question": "¿Que miembro de la famosa familia es conocido con el apodo de Jeremy o Boaten?",
-  "options": ["Mohamed", "Badre", "Moises","Adrian"],
-  "answer": 3,
-  "explanation": "Adrian, tambien conocido como el Boateng de la luz, obtuvo dicho sobre nombre por sus grandes noches futboleras, donde se lucio incontables veces tras ser humillado y pisoteado por numerosos futbolitas en las paraolimpiadas"
 }
-]
